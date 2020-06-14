@@ -16,6 +16,7 @@ References
 |
 
 
+
 Links
 ~~~~~~~
 
@@ -26,11 +27,12 @@ Links
 
 * `Tensorflow Tutorial Examples <https://github.com/tensorflow/docs/tree/master/site/en/tutorials>`_
 
+* `Hands on Machine Learning Github Repo <https://github.com/ageron/handson-ml2>`_
 
 
 
 
-
+|
 |
 |
 |
